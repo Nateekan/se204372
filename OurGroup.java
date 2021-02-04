@@ -10,6 +10,9 @@ public class OurGroup {
         groupMembers.add("Sahassawas Werawinuntanakul"); //PUT YOUR NAME HERE
 =======
         groupMembers.add("Nateekan Ngamkam"); //PUT YOUR NAME HERE
+<<<<<<< HEAD
+	groupMembers.add("Parit Menklay");
+=======
 	groupMembers.add("Thakuntorn Thitinakarath");
 >>>>>>> d3712d4d79cd53e84ba6ae7eaf12370b41e80585
     }
